@@ -1,7 +1,7 @@
 # Switch-Simulator
 
 **How to Play Switch:**
-Switch is a card game that is played with a standard deck of 52 cards. The objective of the game is to be the first player to get rid of all the cards in their hand. Players take turns playing cards, and the card they play must match the rank or suit of the top card on the discard pile. If a player cannot play a card, they must draw cards from the deck until they can play one. Special cards, such as Aces, Twos, Queens, Kings, and Sevens, have specific effects in the game.
+Switch is a card game I played when I was younger. It is played with a standard deck of 52 cards. The objective of the game is to be the first player to get rid of all the cards in their hand. Players take turns playing cards, and the card they play must match the rank or suit of the top card on the discard pile. If a player cannot play a card, they must draw a card from the deck until they can play one. Special cards, such as Aces, Twos, Queen, King, 5 of Hearts, Jacks, and Sevens, have specific effects in the game.
 
 **Classes:**
 The simulation is divided into several classes to manage different aspects of the game:
@@ -16,7 +16,7 @@ The simulation is divided into several classes to manage different aspects of th
 The simulation provides three player strategies that players can choose from:
 
 **Random Strategy:** The player selects cards randomly from the playable cards in their hand.
-**Offensive Strategy: **The player follows a more aggressive approach, trying to play powerful cards like Kings, Queens, and Twos.
+**Offensive Strategy:**The player follows a more aggressive approach, trying to play powerful cards like Kings, Queens, and Twos.
 **Defensive Strategy:** The player adopts a more conservative approach, saving cards like Twos and Queens to use defensively.
 
 **Game Simulation:**
