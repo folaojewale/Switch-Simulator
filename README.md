@@ -21,3 +21,7 @@ The simulation provides three player strategies that players can choose from:
 
 **Game Simulation:**
 The Game class orchestrates the entire game simulation. Players take turns playing cards based on their chosen strategy until a player runs out of cards, winning the game. The game keeps track of special cards' effects, such as Twos, Queens, Kings, and Sevens and more.
+
+**How To Run**
+Download all the .java files and run sim.java in a Java IDE.
+Importing the files my vary depending on the IDE you use.
